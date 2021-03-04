@@ -1,4 +1,4 @@
-package com.ezatsepin.minfinwidgetapp;
+package com.ezatsepin.weatherwidgetapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.ezatsepin.minfinwidgetapp", appContext.getPackageName());
+        assertEquals("com.ezatsepin.weatherwidgetapp", appContext.getPackageName());
     }
 }

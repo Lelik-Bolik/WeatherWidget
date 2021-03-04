@@ -1,4 +1,4 @@
-package com.ezatsepin.minfinwidgetapp;
+package com.ezatsepin.weatherwidgetapp;
 
 import org.junit.Test;
 
